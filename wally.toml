@@ -1,0 +1,10 @@
+[package]
+name = "pikka606/roblox1"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+# ProfileStore est vendorisé directement dans ServerPackages/ProfileStore.luau
+# (téléchargé depuis github.com/MadStudioRoblox/ProfileStore)
+# [server-dependencies]
+# ProfileStore = "loleris/profilestore@^1"  -- non disponible sur le registre Wally
